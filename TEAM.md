@@ -1,0 +1,2 @@
+Balsam Alahmari, I want to learn how to build reliable infrastructure that makes AI models ready for real-world deployment.
+
